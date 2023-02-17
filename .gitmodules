@@ -8,3 +8,8 @@
 	url = https://github.com/gabrielnakamura/fishphylomaker
 	shallow = true
 	registered = true
+[submodule "rfishbase"]
+	path = rfishbase
+	url = https://github.com/ropensci/rfishbase
+	shallow = true
+	registered = false

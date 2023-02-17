@@ -1,0 +1,8 @@
+[
+  {
+    "package": "rfishbase",
+    "url": "https://github.com/ropensci/rfishbase",
+    "via": ["FishPhyloMaker"],
+    "from": "FishPhyloMaker"
+  }
+]
